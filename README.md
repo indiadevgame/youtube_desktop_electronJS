@@ -17,6 +17,10 @@ npm inti
 npm install electron --dev --save
 
 
+in this folder don't have  package.json , package-lock.json file  you run cmd so file is automatic upload  
+
+in this folder don;t have  node_modules folder  run the cammand npm init so automatic install 
+
 open main.js and make a window 
 
 code in main.js file see there 
